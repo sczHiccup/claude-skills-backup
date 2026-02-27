@@ -3,7 +3,6 @@ name: markitdown
 description: "将文件和办公文档转换为 Markdown。支持 PDF、DOCX、PPTX、XLSX、图像（带 OCR）、音频（带转录）、HTML、CSV、JSON、XML、ZIP、YouTube URLs、EPubs 等。"
 allowed-tools: [Read, Write, Edit, Bash]
 license: MIT
-source: https://github.com/microsoft/markitdown
 ---
 
 # MarkItDown - 文件到 Markdown 转换
