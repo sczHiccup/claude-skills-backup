@@ -1,0 +1,10 @@
+{
+  "name": "agent-development",
+  "full_name": "anthropics/claude-plugins-official/agent-development",
+  "type": "skill",
+  "author": "anthropics",
+  "kit": "claude-plugins-official",
+  "content_hash": "c4b1a138c025d846b77f2465b948aeaf1265f6fd2a087ed33a895c640115de8e",
+  "description": "This skill should be used when the user asks to \"create an agent\", \"add an agent\", \"write a subagent\", \"agent frontmatter\", \"when to use description\", \"agent examples\", \"agent tools\", \"agent colors\", \"autonomous agent\", or needs guidance on agent structure, system prompts, triggering conditions, or agent development best practices for Claude Code plugins.",
+  "score": 82
+}

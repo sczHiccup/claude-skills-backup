@@ -1,0 +1,10 @@
+{
+  "name": "mcp-integration",
+  "full_name": "anthropics/claude-plugins-official/mcp-integration",
+  "type": "skill",
+  "author": "anthropics",
+  "kit": "claude-plugins-official",
+  "content_hash": "473e6fd675aa6480bca58c9b9723fc6d975c4eefe6ab72c22ecde5612e0f1f14",
+  "description": "This skill should be used when the user asks to \"add MCP server\", \"integrate MCP\", \"configure MCP in plugin\", \"use .mcp.json\", \"set up Model Context Protocol\", \"connect external service\", mentions \"${CLAUDE_PLUGIN_ROOT} with MCP\", or discusses MCP server types (SSE, stdio, HTTP, WebSocket). Provides comprehensive guidance for integrating Model Context Protocol servers into Claude Code plugins for external tool and service integration.",
+  "score": 80
+}
